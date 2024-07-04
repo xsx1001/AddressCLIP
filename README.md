@@ -26,7 +26,7 @@ Feel free to use the addresses and captions in it!
 
 ### Pitts-IAL
 #### Download Pittsburgh-250k
-Download the original Pittsburgh-250k dataset from [here](https://data.ciirc.cvut.cz/public/projects/2015netVLAD/Pittsburgh250k/)
+Download the original Pittsburgh-250k dataset from [here](https://data.ciirc.cvut.cz/public/projects/2015netVLAD/Pittsburgh250k/).
 
 #### Re-orginization
 Extract the `.zip` files and put them all into `./datasets/Pitts-IAL/` folder.
