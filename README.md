@@ -19,13 +19,21 @@ opencv
 
 ## Image Address Localization Datasets
 
+### Annotations
+Download the annotations and splits of IAL-datasets used in the paper from Baidu Cloud [link](https://pan.baidu.com/s/1dLS04_aoreEYFINOXgbEQg?pwd=rnjk) or Google Drive [link](https://drive.google.com/file/d/1Lw-slVr0oT-MFYsLF8NJUP6jAH11URs2/view?usp=share_link).
+
 ### Pitts-IAL
-#### Download
+#### Download Pittsburgh-250k
+Download the original Pittsburgh-250k dataset from [here](https://data.ciirc.cvut.cz/public/projects/2015netVLAD/Pittsburgh250k/)
 
 #### Re-orginization
+Extract the `.zip` files and put them all into `./datasets/Pitts-IAL/` folder.
 
 ### SF-IAL-Base & SF-IAL-Large
-#### Download
+#### Download CosPlace
+Follow the instruction from the [CosPlace](https://github.com/gmberton/CosPlace) to obtain the original SF-XL dataset.
+
+We only used the images in the `/processed` folder. Download it and put it into `./datasets/processed/` folder. 
 
 ## Training
 Coming soon ...
