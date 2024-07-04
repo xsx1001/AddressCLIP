@@ -54,4 +54,4 @@ year={2024}}
 ```
 
 ## Acknowledgements
-This repository makes liberal use of code from GwcNet and beyond-image-to-depth.
+This repository makes liberal use of code from [CLIP](https://github.com/openai/CLIP), [open_clip](https://github.com/mlfoundations/open_clip) and [LAVIS](https://github.com/salesforce/LAVIS).
