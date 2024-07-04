@@ -19,11 +19,15 @@ opencv
 
 ## Image Address Localization Datasets
 
+### Pitts-IAL
+
+### SF-IAL-Base & SF-IAL-Large
+
 ## Training
-coming soon
+Coming soon ...
 
 ## Evaluation
-coming soon
+Coming soon ...
 
 ## Citation
 If this project is helpful for you, please cite our paper:
