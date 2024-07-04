@@ -20,8 +20,12 @@ opencv
 ## Image Address Localization Datasets
 
 ### Pitts-IAL
+#### Download
+
+#### Re-orginization
 
 ### SF-IAL-Base & SF-IAL-Large
+#### Download
 
 ## Training
 Coming soon ...
@@ -40,3 +44,4 @@ year={2024}}
 ```
 
 ## Acknowledgements
+This repository makes liberal use of code from GwcNet and beyond-image-to-depth.
