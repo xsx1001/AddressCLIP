@@ -22,6 +22,8 @@ opencv
 ### Annotations
 Download the annotations and splits of IAL-datasets used in the paper from Baidu Cloud [link](https://pan.baidu.com/s/1dLS04_aoreEYFINOXgbEQg?pwd=rnjk) or Google Drive [link](https://drive.google.com/file/d/1Lw-slVr0oT-MFYsLF8NJUP6jAH11URs2/view?usp=share_link).
 
+Feel free to use the addresses and captions in it!
+
 ### Pitts-IAL
 #### Download Pittsburgh-250k
 Download the original Pittsburgh-250k dataset from [here](https://data.ciirc.cvut.cz/public/projects/2015netVLAD/Pittsburgh250k/)
